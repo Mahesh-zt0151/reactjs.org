@@ -58,3 +58,4 @@ customElements.define('x-search', XSearch);
 >Note:
 >
 >This code **will not** work if you transform classes with Babel. See [this issue](https://github.com/w3c/webcomponents/issues/587) for the discussion.
+maheshMDR
